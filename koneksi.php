@@ -1,7 +1,7 @@
 <?php
 $dbhost='localhost';
 $dbuser='root';
-$dbpass='12345';
+$dbpass='abcde';
 $db='perpustakaan';
 
 $koneksi =  new mysqli($dbhost,$dbuser,$dbpass,$db);
